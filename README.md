@@ -47,6 +47,3 @@ This project implements hand gesture recognition using a webcam. It includes scr
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for improvements.
-
-## License
-Specify your license here (e.g., MIT, GPL).
